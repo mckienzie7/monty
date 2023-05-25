@@ -1,5 +1,5 @@
 /*
- * File: monty_funcs_1.c
+ * File: monty_funcs1.c
  * Auth: Michael Solomon
  */
 
